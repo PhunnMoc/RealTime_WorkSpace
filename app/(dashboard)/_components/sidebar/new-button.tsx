@@ -8,7 +8,7 @@ const New_button =()=>{
     return(
         <Dialog>
             <DialogTrigger asChild>
-                <div className=" aspect-square">
+                <div className=" aspect-square mt-4">
                     <button className=" bg-white/35 h-full w-full flex justify-center items-center rounded-sm  opacity-70 hover:opacity-100 transition-opacity">
                         <Plus className=" text-white"/>
                     </button>

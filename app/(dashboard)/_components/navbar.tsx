@@ -7,7 +7,7 @@ export const Navbar =()=>{
         <div className=" bg-purple-600 p-5 flex items-center gap-x-4">
             <div className="hidden lg:flex bg-yellow-500 flex-1">
                 hehe
-            </div>
+             </div>
             <div>
                 <UserButton/>
             </div>
